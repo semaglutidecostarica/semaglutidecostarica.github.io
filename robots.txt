@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://semaglutidecostarica.github.io/sitemap.xml
